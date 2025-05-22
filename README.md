@@ -40,7 +40,7 @@ Here are some of the technologies and tools I work with:
 ## 🌐 Connect with me
 
 - 📫 Email: [edimacesanu2015@gmail.com](mailto:edimacesanu2015@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/www.linkedin.com/in/eduard-macesanu-27a705346](https://linkedin.com/in/eduard-macesanu-27a705346)
+- 💼 LinkedIn: [eduard-macesanu-27a705346](https://www.linkedin.com/in/eduard-macesanu-27a705346)
 - 🌍 Portfolio: [EduardMacesanu.github.io](https://EduardMacesanu.github.io)
 
 ---
