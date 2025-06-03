@@ -1,10 +1,10 @@
 # 👋🏻 Hi there! I'm Eduard Macesanu 🚀
 
-I'm a 19-year-old backend developer based in Madrid, Spain, passionate about building robust, scalable, and efficient systems. I enjoy working behind the scenes to design the logic, architecture, and infrastructure that make applications fast, secure, and reliable.
+I'm a 19-year-old backend developer based in Madrid, Spain, with a strong passion for building robust, scalable, and efficient systems. I love working behind the scenes—designing the logic, architecture, and infrastructure that help applications run fast, securely, and reliably.
 
-I find great satisfaction in solving complex problems, optimizing performance, and writing clean, maintainable code. My background includes working with languages like Java, managing databases with SQL, and using tools such as Git, GitHub, Postman, and more.
+I really enjoy tackling complex problems, improving performance, and writing clean, maintainable code. I’ve worked with technologies like Java, SQL, Git, GitHub, Postman, and more, and I’m always eager to learn and expand my skill set.
 
-🎓 I'm currently completing my studies and actively seeking backend development opportunities where I can apply my skills in real-world projects, continue growing as a developer, and contribute to meaningful, high-impact work within the tech industry.
+🎓 Right now, I'm finishing my studies and actively looking for backend development opportunities where I can put my skills into practice, grow as a developer, and contribute to impactful projects in the tech world.
 ---
 
 ## 🛠️ Tech Stack
